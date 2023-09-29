@@ -25,6 +25,7 @@ public class LearnArrayList {
 			
 			System.out.println(num);
 			
+			
 		}
 		
 
